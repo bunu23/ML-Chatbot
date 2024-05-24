@@ -120,19 +120,14 @@ streamlit run app.py
   pip install git+https://github.com/huggingface/transformers
   ```
 
-## File Structure
-
-- `app.py`: The main application script.
-- `requirements.txt`: A list of Python packages required to run the app.
-- `models/`: Directory for caching model files.
 
 ## Example
 
 Here's a simple example to get you started:
 
 1. **Upload an Image**:
-   ![Upload Image](images/screenshot1.png)
+   ![Upload Image](./images/screenshot1.png)
 2. **Ask a Question**:
-   ![Ask Question](images/screenshot2.png)
+   ![Ask Question](./images/screenshot2.png)
 3. **Receive an Answer**:
-   ![Receive Answer](images/screenshot3.png)
+   ![Receive Answer](./images/screenshot3.png)
