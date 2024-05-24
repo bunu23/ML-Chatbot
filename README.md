@@ -126,8 +126,15 @@ streamlit run app.py
 Here's a simple example to get you started:
 
 1. **Upload an Image**:
-   ![Upload Image](./images/screenshot1.png)
+ 
+ <img src="./images/Screenshot1.png" alt="Upload Image" style="width:400px;height:400px;">
+ 
+   
 2. **Ask a Question**:
-   ![Ask Question](./images/screenshot2.png)
-3. **Receive an Answer**:
-   ![Receive Answer](./images/screenshot3.png)
+
+    <img src="./images/Screenshot2.png" alt="Ask Question">
+  
+
+4. **Receive an Answer**:
+   
+    <img src="./images/Screenshot3.png" alt="Ask Question">
