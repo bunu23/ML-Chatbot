@@ -131,8 +131,8 @@ streamlit run app.py
 Here's a simple example to get you started:
 
 1. **Upload an Image**:
-   ![Upload Image](screenshot1.png)
+   ![Upload Image](images/screenshot1.png)
 2. **Ask a Question**:
-   ![Ask Question](screenshot2.png)
+   ![Ask Question](images/screenshot2.png)
 3. **Receive an Answer**:
-   ![Receive Answer](screenshot3.png)
+   ![Receive Answer](images/screenshot3.png)
