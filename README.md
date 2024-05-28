@@ -120,21 +120,3 @@ streamlit run app.py
   pip install git+https://github.com/huggingface/transformers
   ```
 
-
-## Example
-
-Here's a simple example to get you started:
-
-1. **Upload an Image**:
- 
- <img src="./images/Screenshot1.png" alt="Upload Image" style="width:400px;height:400px;">
- 
-   
-2. **Ask a Question**:
-
-    <img src="./images/Screenshot2.png" alt="Ask Question">
-  
-
-4. **Receive an Answer**:
-   
-    <img src="./images/Screenshot3.png" alt="Ask Question">
